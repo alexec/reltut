@@ -12,7 +12,7 @@
     <scm>
         <connection>scm:git:https://github.com/alexec/reltut.git</connection>
         <developerConnection>scm:git:https://github.com/alexec/reltut.git</developerConnection>
-        <tag>1.31.x</tag>
+        <tag>1.1.x</tag>
     </scm>
 
     <distributionManagement>
